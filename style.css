@@ -1,0 +1,56 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.first img{width: 100%;
+    position: relative;
+}
+.second{
+    text-align: center;
+    position: absolute;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    background-color: rgb(209, 55, 8);
+    padding: 5px 10px;
+    color: aliceblue;
+    font-weight:bolder;
+    border-radius: 5px;    
+}
+.donation{
+    font-size: 35px;
+    text-align: center;
+}
+.donation h6{
+    font: 10;
+    font-size: 20px;
+}
+.amount{
+    display: flex;
+    text-align: center;
+}
+.amount-1{ width: 140px; height: 100px; padding-top: 45px;
+    margin-left: 200px; background-color: rgb(228, 218, 218); border-radius: 5px;}
+.amount-2{ width: 140px; height: 100px; padding-top: 45px; margin-left: 100px;
+            background-color: rgb(228, 218, 218); border-radius: 5px;
+            color: tomato;
+            border: 2px solid tomato;}
+.amount-3{width: 140px; height: 100px; padding-top: 45px; border-radius: 5px;
+        background-color: rgb(228, 218, 218); margin-left: 100px;}
+.amount-4{width: 140px; height: 100px; padding-top: 45px; margin-left: 100px; 
+        border-radius: 5px; background-color: rgb(228, 218, 218);}
+.amount-5{width: 140px; height: 100px; padding-top: 45px; border-radius: 5px;
+        background-color: rgb(228, 218, 218); margin-left: 100px;}
+.other-amount{color: gray; font-size: 30px; font-weight: 50;
+            text-align: center; padding-top: 45px;
+        } 
+ .other-amount hr{ width: 50%;
+}       
+.other-amount a{background-color: rgb(209, 55, 8);
+    color: aliceblue
+    border-radius: 5px;
+    margin-top: 60px;
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 5px 10px;
+}
